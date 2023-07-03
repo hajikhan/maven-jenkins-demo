@@ -1,7 +1,7 @@
 pipeline {
 	agent any
 	tools {
-        	jenkins-maven 'Maven 3.9.3'
+        	jenkins-maven
 
     	}
 	stages {
