@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.jenkins.devops</groupId>
 	<artifactId>rest-api-crud-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-Release</version>
 	<name>rest-api-crud-example</name>
 	<description>Demo project for Spring Boot and jenkins build step</description>
 	<properties>
